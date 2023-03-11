@@ -1,12 +1,12 @@
 pusta_krotka = tuple()
 print(pusta_krotka)
 
-adres = ('Fundacja CODE:ME', 'aleja Wojska Polskiego 41', '80-268 Gdańsk')
+adres = ('Fundacja Python', 'ul. Programistyczna 12', '00-001 Warszawa')
 
 # można też tak wprowadzać dane
-adres = ('Fundacja CODE:ME',
-         'aleja Wojska Polskiego 41',
-         '80-268 Gdańsk')
+adres = ('Fundacja Python',
+         'ul. Programistyczna 12',
+         '00-001 Warszawa')
 
 print(adres)
 print(type(adres))

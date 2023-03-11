@@ -1,6 +1,6 @@
-adres = ('Fundacja CODE:ME',
-         'aleja Wojska Polskiego 41',
-         '80-268 Gdańsk')
+adres = ('Fundacja Python',
+         'ul. Programistyczna 12',
+         '00-001 Warszawa')
 
 nazwa = adres[0]
 ulica = adres[1]
