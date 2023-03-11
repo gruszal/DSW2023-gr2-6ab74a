@@ -4,4 +4,4 @@ print(''.join(imiona))
 
 print(' '.join(imiona))
 
-print('$$$'.join(imiona))
+print(','.join(imiona))
