@@ -16,4 +16,4 @@ znajdą się trzy wyrazy, program zakończy działanie.
 ## Rozszerzenie 2:
 
 - Zmień zachowanie programu, aby wpisanie pustego stringa przerywało działanie całego programu.
-- Zmień tekst zapytania, aby użytkownik wiedział jak przerwać program. 
+- Zmień tekst zapytania, aby użytkownik wiedział, jak przerwać program. 
